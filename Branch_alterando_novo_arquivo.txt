@@ -1,1 +1,2 @@
-teste de alteração de arquivo na nova branch
+Alteração local -- teste de alteração de arquivo na nova branch
+Nova linha incluida no repositorio local
